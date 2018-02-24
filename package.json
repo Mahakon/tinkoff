@@ -1,0 +1,17 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibonacciSimple.js",
+  "scripts": {
+    "test": "mocha ./__tests__/fibonacci.test.js",
+    "testJest": "jest"
+  },
+  "author": "Maha",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^22.4.0",
+    "jest": "^22.4.2",
+    "mocha": "^5.0.1"
+  }
+}
